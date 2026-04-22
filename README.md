@@ -1,3 +1,1 @@
-## [講義ノート](string_data.md)
-
-## [演習ワークシート](http://colab.research.google.com/github/ueharaLab/python3_stringdata/blob/main/string_data.ipynb)
+## [講義ノート](http://colab.research.google.com/github/ueharaLab/datascience_python2/blob/main/string_data.ipynb)
